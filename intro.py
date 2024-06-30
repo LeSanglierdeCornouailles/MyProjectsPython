@@ -1,1 +1,2 @@
-print('Py first Projet')
+print('My first Projet victor')
+print('Setting enviroment')
